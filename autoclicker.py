@@ -1,7 +1,7 @@
 #testing using git
 #used pyqt5, mouse, keyboard, time module.
 #except time module, others could installed by pip. (pip install [module])
-#by using pyinstall, autoclicker.exe is made.
+#by using pyinstall, autoclicker.exe is made. but it's too large!
 
 # -*- coding: utf-8 -*-
 

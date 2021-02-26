@@ -1,6 +1,11 @@
+#testing using git
+#used pyqt5, mouse, keyboard, time module.
+#except time module, others could installed by pip. (pip install [module])
+#by using pyinstall, autoclicker.exe is made.
+
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'untitled2.ui'
+# Form implementation generated from reading ui file 'autoclicker.ui'
 #
 # Created by: PyQt5 UI code generator 5.9.2
 #
